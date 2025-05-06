@@ -1,5 +1,7 @@
-# Weekly_progress_log
-This is about the weekly progress of learning  DevOps and cloud computing 
-|--WEEK 1/
-  |-- Notes:[https://drive.google.com/file/d/1xSsYRIDTrURd3sTLXzzsqyeJTmUTkPh8/view?usp=sharing]
-  |--Task solution:https://drive.google.com/file/d/1bSfR0YRd-0YlqY3uZKewiSzXKnZ49zyP/view?usp=drive_link
+# Weekly Progress Log
+
+This is about the weekly progress of learning **DevOps** and **Cloud Computing**.
+
+## WEEK 1
+- 📒 **Notes:** [View Notes](https://drive.google.com/file/d/1xSsYRDITtrURd3sTLXzzsqyeJTmUtkPh8/view?usp=sharing)
+- ✅ **Task Solution:** [View Task Solution](https://drive.google.com/file/d/1b5fR0YRd-0Y1qY3uZKewiSzXKnZ4gzyP/view?usp=drive_link)
