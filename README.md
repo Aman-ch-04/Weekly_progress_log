@@ -1,7 +1,8 @@
-# Weekly Progress Log
+![image](https://github.com/user-attachments/assets/51429dfd-0c71-4daa-ac6b-f749f626d332)# Weekly Progress Log
 
 This is about the weekly progress of learning **DevOps** and **Cloud Computing**.
 
 ## WEEK 1
 - 📒 **Notes:** [View Notes](https://drive.google.com/file/d/1xSsYRIDTrURd3sTLXzzsqyeJTmUTkPh8/view?usp=sharing)
 - ✅ **Task Solution:** [View Task Solution](https://drive.google.com/file/d/1bSfR0YRd-0YlqY3uZKewiSzXKnZ49zyP/view?usp=sharing)
+- 📁 **Commands File:** [Commands File](https://drive.google.com/file/d/1FEbczswACb0FUaszWydoyFzF6PEgrV4p/view?usp=sharing)
