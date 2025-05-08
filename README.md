@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/51429dfd-0c71-4daa-ac6b-f749f626d332)# Weekly Progress Log
+# Weekly Log: DevOps & Cloud Computing Progress
 
 This is about the weekly progress of learning **DevOps** and **Cloud Computing**.
 
