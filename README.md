@@ -8,3 +8,4 @@ This is about the weekly progress of learning **DevOps** and **Cloud Computing**
 - 📁 **Commands File:** [Commands File](https://drive.google.com/file/d/1FEbczswACb0FUaszWydoyFzF6PEgrV4p/view?usp=sharing)
 ## WEEK 2
 - 📒 **Notes:** [View Notes](https://drive.google.com/file/d/1BH33ROxiCTXWxlRtN2R22i54c8BfEJ0z/view?usp=sharing)
+- ✅ **Task Solution:** [View Task Solution](https://drive.google.com/file/d/1ZkX1RN8hLv2JGRDEuM3MY1oWwXn7uQO8/view?usp=drive_link)
